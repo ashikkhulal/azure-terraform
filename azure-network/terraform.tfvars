@@ -1,0 +1,7 @@
+resource_group_name         = "terraform_rg"
+resource_group_location     = "East US"
+virtual_network_name        = "vnet-dev"
+subnet_name                 = "subnet-1-dev"
+public_ip_name              = "public-ip-dev"
+network_security_group_name = "nsg-dev"
+network_interface_name      = "nic-dev"
