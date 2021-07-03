@@ -1,0 +1,18 @@
+// to format terraform file
+terraform fmt 
+
+// to initiate terraform
+terraform init 
+
+// to validate terraform files
+terraform validate 
+
+// to plan 
+terraform plan
+
+// to apply
+terraform apply
+Note: variable password is designed to be during apply and destroy
+
+// to destroy
+terraform destroy
